@@ -1,0 +1,47 @@
+.section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(229, 158, 215);
+}
+.L{text-align: center;
+    color: rgb(140, 65, 0);
+}
+  
+
+.Z{ font-style:italic;
+  color: rgb(1, 1, 35);
+  letter-spacing: 4px;
+  word-spacing: 4px;
+  text-align: center;
+  font-size: 50px;
+  
+}
+
+
+
+li{
+    list-style-type:none; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.G{text-align: center;
+      
+    }
